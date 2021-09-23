@@ -11,4 +11,4 @@ int main()
     printf("Hello World\n");
 }
 ```
-![圖](we.png)
+
