@@ -11,4 +11,4 @@ int main()
     printf("Hello World\n");
 }
 ```
-![we](we.png)
+![we.png](we.png)
