@@ -12,3 +12,12 @@ int main()
 }
 ```
 ![we.png](we.png)
+```C
+#include <stdio.h>
+int main()
+{
+    printf("Hello World\n");
+    printf("Hello World\n");
+
+}
+```C
